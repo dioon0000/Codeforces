@@ -1,3 +1,4 @@
+//https://codeforces.com/contest/1690/problem/B
 #include <bits./stdc++.h>
 #define MAX 50000
 using namespace std;
@@ -30,4 +31,4 @@ int main(){
 
     while(t--)
         solve();
-}
+} 
