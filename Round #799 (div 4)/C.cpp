@@ -1,4 +1,4 @@
-//https://codeforces.com/contest/1692/problem/C
+Ôªø//https://codeforces.com/contest/1692/problem/C
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -11,7 +11,7 @@ int main(){
 	while(t--){
 		int x, y;
 		char c[9][9];
-		//√ºΩ∫∆« ±◊∏Æ±‚
+		//Ï≤¥Ïä§Ìåê Í∑∏Î¶¨Í∏∞
 		for(int i=0; i<8; ++i)
 			for(int j=0; j<8; ++j)
 				cin >> c[i][j];
